@@ -16,7 +16,7 @@ There is a requirement to manage customer master data with their order inforamti
 1. Laptop for hands-on lap: Windows 10/11 PC (or Mac) + Mendix Studio Pro 10.x
     * [Installing Mendix Studio Pro](https://docs.mendix.com/refguide/install/)
 
-## [Lab 1 Creat entities and attributes in Domain Model(5 minutes)](lab01-01-DomainModel.md)
+## [Lab 1 Create entities and attributes in Domain Model(5 minutes)](lab01-01-DomainModel.md)
 
 ## [Lab 2 Develop Web pages (15 minutes)](lab01-02-DomainModel.md)
 

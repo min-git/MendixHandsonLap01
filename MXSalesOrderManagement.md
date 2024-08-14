@@ -18,6 +18,6 @@ There is a requirement to manage customer master data with their order inforamti
 
 ## [Lab 1 Creat entities and attributes in Domain Model(5 minutes)](lab01-01-DomainModel.md)
 
-## [Lab 2 Develop Web pages (5 minutes)](lab01-02-DomainModel.md)
+## [Lab 2 Develop Web pages (15 minutes)](lab01-02-DomainModel.md)
 
-## [Lab 3 Develop Microflow (5 minutes)](lab01-03-DomainModel.md)
+## [Lab 3 Develop Microflow (20 minutes)](lab01-03-DomainModel.md)

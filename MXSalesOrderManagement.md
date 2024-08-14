@@ -7,7 +7,7 @@ There is a requirement to manage customer master data with their order inforamti
 * A customer usually has multple orders.
 * A total order amount of each customer will be calculated when a new order comes in.
 
-![To be App](./images/image01.jpg)
+![To be App](images/image01.JPG)
 
 또한 작업에 문제가 생길 때 원인을 분석하기 위하여 모든 데이터를 모아야 합니다. 
 

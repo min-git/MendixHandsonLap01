@@ -1,4 +1,4 @@
-# Mendix App Development for Sales Order Management (Hands On Lab) 
+# Mendix Sales Order Management App (Hands On Lab) 
 
 ## User story
 
